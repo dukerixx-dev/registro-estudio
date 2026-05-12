@@ -16,3 +16,5 @@ num5 = int(input("ingrese otro numero"))
 if num1 > 0:
     cont +=1
 print(f"Hay {cont} numeros positivos en los numeros ingresados")
+
+#xd2
